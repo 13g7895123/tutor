@@ -1,0 +1,23 @@
+button:hover{
+    cursor: pointer;
+}
+
+#btn_click{
+    border-radius: 3px;
+}
+
+.btnn{
+    width: 49.32px;
+    border: 1px solid #555;
+    background-color: green;
+    color: white;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
+
+#btn_click:hover{
+    background-color: greenyellow;
+}
+
